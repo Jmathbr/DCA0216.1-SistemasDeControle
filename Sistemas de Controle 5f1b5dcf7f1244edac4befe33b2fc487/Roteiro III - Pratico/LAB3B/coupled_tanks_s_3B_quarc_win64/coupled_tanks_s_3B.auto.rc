@@ -1,0 +1,2 @@
+#include <winuser.rh>
+1 RT_MANIFEST "coupled_tanks_s_3B.auto.manifest"
